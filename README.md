@@ -10,6 +10,10 @@ Submissions will be evaluated by mean opinion scores and objective metrics.
 
 This repo contains the source code of [Night Photography Rendering Challenge 2025](https://nightimaging.org/).
 
+# Participants' solutions
+
+All solutions submitted to the final stage of the challenge are available for [download via link (Google Drive)](https://drive.google.com/drive/folders/1jBW31fpwlATD7FBOVI_F70Xr15-dikQFEX4xh0FV1FPnD-UDsXP1DTW4SngDsMTYDpuExEIK?usp=sharing).
+
 # Initial data processing
 
 File crop_resize.py contains function "def crop_resize" which allows to bring source images from smartphone to size of ground truth images from photo camera. **CAUTION**! Crop and resize should be performed after debayering and distortion correction of input images. 
